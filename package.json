@@ -1,0 +1,18 @@
+{
+  "name": "tays-comm-log",
+  "version": "1.0.0",
+  "description": "\"communication log\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"jest\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "tays-comm-log"
+  },
+  "keywords": [
+    "comm"
+  ],
+  "author": "\"tay\"",
+  "license": "ISC"
+}
